@@ -1,2 +1,3 @@
 Get get from server
 process data
+create avatar for user
